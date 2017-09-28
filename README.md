@@ -16,8 +16,6 @@ http://stackoverflow.com/questions/4919076/outline-effect-to-text
 
 
 
-Site ## Creator
-
 Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
 * https://twitter.com/davidmillerskt
