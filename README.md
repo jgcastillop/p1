@@ -1,18 +1,18 @@
 # Project 1
 
-### p1.castillopalacios.me
+### p1.castillopalacios.xyz
 
-This is the first basic project for the Dynamic Web Applications course. 
+This is the first basic project for the Dynamic Web Applications course.
 
 
-Used Normalize CSS and StartBootstrap to keep it consistent over different browsers and add a nice theme. 
+Used Normalize CSS and StartBootstrap to keep it consistent over different browsers and add a nice theme.
 
 Used StackOverflow for solution on adding border to title font:
 
 http://stackoverflow.com/questions/4919076/outline-effect-to-text
 
 
-### 
+###
 
 
 
@@ -26,5 +26,3 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-clean-blog/blob/gh-pages/LICENSE) license.
-
-
